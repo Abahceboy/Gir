@@ -1,3 +1,10 @@
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x83A55c5E6E0ffCE51341b960cc1759Fd1541dC60'
+quorum: 1
+
 # node-gir
 
 Node-gir is Node.js bindings to [GObject Introspection](https://live.gnome.org/GObjectIntrospection/) making it possible to make automatic and dynamic calls to any library that has GI annotations installed. This includes most libraries from the [GNOME project](http://developer.gnome.org/).
